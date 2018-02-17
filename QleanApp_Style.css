@@ -1,0 +1,108 @@
+/*-- Text Color -- */
+
+.tColor-0 {
+    color: #fff;
+}
+
+.tColor-1 {
+    color: #005289;
+}
+
+.tColor-2 {
+    color: #00e7ff;
+}
+
+.tColor-3 {
+    color: #d0021b;
+}
+
+.tColor-4 {
+    color: #4a4a4a;
+}
+
+.tColor-5 {
+    color: #aeaeae;
+}
+
+* {
+    color: #4a4a4a;
+}
+
+
+/*-- Text Color -- */
+
+/*-- Background Color -- */
+
+.bColor-0 {
+    background-color: #fff;
+}
+
+.bColor-1 {
+    background-color: #005289;
+}
+
+.bColor-2 {
+    background-color: #00e7ff;
+}
+
+.bColor-3 {
+    background-color: #d0021b;
+}
+
+.bColor-4 {
+    background-color: #4a4a4a;
+}
+
+.bColor-5 {
+    background-color: #aeaeae;
+}
+
+.bColor-6 {
+    background-color: #f7f7f7;
+}
+
+.bColor-6:focus {
+    background-color: #f7f7f7;
+}
+
+.bColor-7 {
+    background-color: #e8e8e8;
+}
+
+.bColor-8 {
+    background-color: #f8f8f8;
+}
+
+
+/*-- Background Color -- */
+
+/* -- Border -- */
+
+/*-- Border Color -- */
+
+.boColor-0 {
+    border-color: #fff;
+}
+
+.boColor-1 {
+    border-color: #005289;
+}
+
+.boColor-2 {
+    border-color: #00e7ff;
+}
+
+.boColor-3 {
+    border-color: #d0021b;
+}
+
+.boColor-4 {
+    border-color: #4a4a4a;
+}
+
+.boColor-5 {
+    border-color: #aeaeae;
+}
+
+
+/*-- Border Color -- */
